@@ -804,25 +804,26 @@ footer {
 
 .footer-form {
   width: 453px;
-
 }
 
 .footer-inline-group {
  display:flex;
+
 }
 
 .footer-label {
   display: block;
+  
   margin-bottom: 16px;
   color: var(--light);
 
 }
 
 .footer-input {
- 
- 
+  width: 264px;
+  margin-right: 24px;
   height: 40px;
-
+  
   padding: 8px 16px;
 
   color: var(--body-back);
@@ -844,7 +845,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: 24px;
+  
   height: 40px;
   padding: 8px 24px;
 
